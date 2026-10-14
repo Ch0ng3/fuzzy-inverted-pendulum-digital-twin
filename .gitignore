@@ -1,0 +1,21 @@
+# MATLAB / Simulink generated files
+*.asv
+*.autosave
+*.slxc
+*.mexw64
+slprj/
+outputs/slprj/
+sccprj/
+*.original
+*.bak
+
+# LaTeX build files (report/)
+report/*.aux
+report/*.log
+report/*.out
+report/*.toc
+report/*.bbl
+report/*.blg
+report/*.synctex.gz
+report/*.fls
+report/*.fdb_latexmk
